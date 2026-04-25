@@ -1,0 +1,1 @@
+performs various tests in a windows-like environment to triage whether the program is running in an official microsoft distribution
