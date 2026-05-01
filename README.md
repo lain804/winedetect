@@ -1,4 +1,4 @@
-# windows environment validation (c++)
+# windows environment validation
 
 c++ program that runs validation checks to determine whether execution is occurring on a genuine microsoft windows system.
 
